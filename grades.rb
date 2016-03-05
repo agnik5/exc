@@ -4,10 +4,6 @@ for num in numbers
   puts(num)
 end
 
-# for number in numbers
-  # puts(number + 10)
-# end
-
 grades = {1 => "very bad", 2 => "bad", 3 => "mediocre", 4 => "good", 5 => "very good", 6 => "excellent"}
 
 for (grade, grade_description) in grades
